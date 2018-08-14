@@ -1,10 +1,10 @@
 body {
-      margin:60px auto;
+      margin:60 px auto;
       width: 70%;
       }
 nav ul,footer ul {
     front-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding:0px;
+    padding:0 px;
     list-style: none;
     font-weight: bold;
  }
@@ -29,12 +29,12 @@ nav ul,footer ul {
        color #333;
      }
        footer {
-              border-top:1px solid #d5d5d5;
+              border-top:1 px solid #d5d5d5;
               font-size: .8sem;
  }
  
  ul.posts {
- margin:20px auto 40px;
+ margin:20 px auto 40 px;
  font-size:1.5sem;
  }
  ul.posts li{
