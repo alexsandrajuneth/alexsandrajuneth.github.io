@@ -38,4 +38,4 @@ nav ul,footer ul {
  }
  ul.posts li{
         list-style: none;
-        }
+        } 
