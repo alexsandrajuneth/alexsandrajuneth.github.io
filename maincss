@@ -24,17 +24,17 @@ nav ul,footer ul {
     }
     p {
        font-size:1.5sem;
-       line-height: 1.4em;
+       line-height: 1.4sem;
        color #333;
        }
        footer {
               border-top:1 px solid #d5d5d5;
-              font-size: .8em;
+              font-size: 1.8sem;
  }
  
  ul.posts {
  margin:20px auto 40 px;
- font-size:1.5 sem;
+ font-size:1.5sem;
  }
  ul.posts li{
         list-style: none;
